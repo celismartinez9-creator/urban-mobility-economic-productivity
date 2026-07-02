@@ -42,7 +42,10 @@ Python · Pandas · NumPy · Seaborn · Matplotlib · Jupyter Notebook
 │   └── ladb_mobility_economy_2024_clean.csv
 ├── notebooks/
 │   └── mobility_economy_analysis.ipynb
-├── images/
-│   └── (chart exports)
+├── files/
+│   ├── boxplot_jams_delay.png
+│   ├── histogram_gdp_capita.png
+│   ├── population_by_city.png
+│   └── congestion_vs_gdp_by_city.png
 └── README.md
 ```
