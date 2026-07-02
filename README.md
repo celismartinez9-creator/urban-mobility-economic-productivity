@@ -38,11 +38,9 @@ Python · Pandas · NumPy · Seaborn · Matplotlib · Jupyter Notebook
 
 ## 📁 Repository Structure
 ```
-├── data/
-│   └── ladb_mobility_economy_2024_clean.csv
-├── notebooks/
-│   └── mobility_economy_analysis.ipynb
-├── files/
+├── urban_mobility_economic_productivity.ipynb   # Full analysis notebook
+├── ladb_mobility_economy_2024_clean.csv         # Final cleaned dataset
+├── files/                                        # Chart exports
 │   ├── boxplot_jams_delay.png
 │   ├── histogram_gdp_capita.png
 │   ├── population_by_city.png
