@@ -1,5 +1,7 @@
 # Urban Mobility & Economic Productivity in Latin America
 
+![Congestion vs GDP](files/congestion_vs_gdp_by_city.png)
+
 ## 📌 Context
 As a data analyst, the goal is to evaluate how urban mobility (traffic congestion, delays) relates to economic productivity (GDP per capita) across major Latin American cities, in order to identify where investment in transport infrastructure could have the biggest impact.
 
